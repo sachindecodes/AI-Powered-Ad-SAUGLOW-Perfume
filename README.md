@@ -20,12 +20,13 @@ Image 1 → Model walking in with perfume (non-JSON prompt)
 ![Model Walk](Walksin.png) 
 Image 2 → Female model showing brand name SAUGLOW (non-JSON prompt)
 ![Female Model](FemaleModel.png)
-Image 3: Perfume bottle with brand name and tagline (AI generated with ChatGPT, background removed using remove.bg, text & overlays added during editing)
+Image 3: Perfume bottle with brand name and tagline (AI generated with ChatGPT, background removed using remove.bg, text & overlays added during editing)<br>
 ![Perfume](Perfume.png)
+<br>
 Image 4 → Exclusive offer (generated using JSON prompt, prompt included below 👇)
 ![Exclusive offer](Exclusiveoffer.jpeg)
 
-JSON Prompt Used for Image 4:
+<b>JSON Prompt <b> Used for Image 4:
 {
   "prompt": "<<< {
   "ad_design": {
