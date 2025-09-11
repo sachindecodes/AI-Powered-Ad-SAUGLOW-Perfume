@@ -5,10 +5,10 @@ This is a short cinematic AI-generated perfume ad for the brand SAUGLOW. The pro
 
 1. Concept & Storyboarding
 
-Scene 1 → Male & female model walk in, showing the perfume bottle.
-Scene 2 → Female model highlights the brand name SAUGLOW.
-Scene 3 → Close-up product shot with brand name & tagline.
-Scene 4 → Exclusive offer image (generated using JSON prompt).
+Scene 1 → Male & female model walk in, showing the perfume bottle.<br>
+Scene 2 → Female model highlights the brand name SAUGLOW.<br>
+Scene 3 → Close-up product shot with brand name & tagline.<br>
+Scene 4 → Exclusive offer image (generated using JSON prompt).<br>
 
 2. Image Generation
 
@@ -94,21 +94,21 @@ Used Hailuo AI to animate static images and create cinematic motion.
 4. Editing & Post-Production
 
 Edited with VN Video Editor:
-Trimming & splitting
-Blending & transitions
-Keyframing
-Color grading
-Text & overlay design
-Background music from Pixabay (with fade in/out & volume control)
+Trimming & splitting<br>
+Blending & transitions<br>
+Keyframing<br>
+Color grading<br>
+Text & overlay design<br>
+Background music from Pixabay (with fade in/out & volume control)<br>
 
 🎨 Skills Highlighted:
 
-Prompt Engineering
-AI Image-to-Video Storytelling
-Background Removal & Compositing (remove.bg)
-Video Editing & Post-Production
-Sound Design
-Branding & Creative Direction
+Prompt Engineering<br>
+AI Image-to-Video Storytelling<br>
+Background Removal & Compositing (remove.bg)<br>
+Video Editing & Post-Production<br>
+Sound Design<br>
+Branding & Creative Direction<br>
 
 📽️ Final Output:
 
@@ -130,19 +130,19 @@ Screenshots:
 
 🔮 Future Work
 
-Extend to multiple ad variations (luxury, festive, lifestyle).
-Experiment with different AI animation tools.
-Add voiceover or scripted narration.
-Test different aspect ratios (9:16, 1:1, 16:9) for social platforms.
+Extend to multiple ad variations (luxury, festive, lifestyle).<br>
+Experiment with different AI animation tools.<br>
+Add voiceover or scripted narration.<br>
+Test different aspect ratios (9:16, 1:1, 16:9) for social platforms.<br>
 
 👤 Author
 
 Sachin Chaudhary
-Portfolio: https://sachin-chaudhary-l2vbqho.gamma.site/
-LinkedIn: www.linkedin.com/in/sachindecodes
-Youtube: www.youtube.com/@SachinDecodes
+Portfolio: https://sachin-chaudhary-l2vbqho.gamma.site/<br>
+LinkedIn: www.linkedin.com/in/sachindecodes<br>
+Youtube: www.youtube.com/@SachinDecodes<br>
 
 📜 License
 
-This project is released under the MIT License.
+This project is released under the MIT License.<br>
 You are free to use, modify, and share it with attribution.
