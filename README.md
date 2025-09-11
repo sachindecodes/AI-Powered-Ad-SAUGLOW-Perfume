@@ -137,7 +137,7 @@ Test different aspect ratios (9:16, 1:1, 16:9) for social platforms.<br>
 
 👤 Author
 
-Sachin Chaudhary
+Sachin Chaudhary<br>
 Portfolio: https://sachin-chaudhary-l2vbqho.gamma.site/<br>
 LinkedIn: www.linkedin.com/in/sachindecodes<br>
 Youtube: www.youtube.com/@SachinDecodes<br>
