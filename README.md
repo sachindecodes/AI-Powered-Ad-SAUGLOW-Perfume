@@ -26,7 +26,7 @@ Image 3: Perfume bottle with brand name and tagline (AI generated with ChatGPT, 
 Image 4 → Exclusive offer (generated using JSON prompt, prompt included below 👇)
 ![Exclusive offer](Exclusiveoffer.jpeg)
 
-<b>JSON Prompt <b> Used for Image 4:
+<b>JSON Prompt </b> Used for Image 4:
 {
   "prompt": "<<< {
   "ad_design": {
